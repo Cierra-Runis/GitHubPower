@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubPower", "GitHubPower.csproj", "{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Debug|ARM64.Build.0 = Debug|ARM64
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Debug|x64.ActiveCfg = Debug|x64
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Debug|x64.Build.0 = Debug|x64
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Release|ARM64.ActiveCfg = Release|ARM64
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Release|ARM64.Build.0 = Release|ARM64
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Release|x64.ActiveCfg = Release|x64
+		{1F025455-39D6-45CB-B4C6-8D9BA5E472C6}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC16BF5A-E6F2-4FCB-8707-F982DB34D38B}
+	EndGlobalSection
+EndGlobal
