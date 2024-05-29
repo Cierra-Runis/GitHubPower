@@ -30,8 +30,7 @@ namespace Community.PowerToys.Run.Plugin.GitHubPower
 
         public string Description => Properties.Resources.plugin_description;
 
-        // TODO: remove dash from ID below and inside plugin.json
-        public static string PluginID => "634b632c-a2c8-4fd7-af8f-c8280635f034";
+        public static string PluginID => "634b632ca2c84fd7af8fc8280635f034";
 
         // TODO: add additional options (optional)
         public IEnumerable<PluginAdditionalOption> AdditionalOptions => new List<PluginAdditionalOption>()

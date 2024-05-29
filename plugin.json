@@ -1,13 +1,13 @@
 {
-  "ID": "634b632c-a2c8-4fd7-af8f-c8280635f034",
-  "ActionKeyword": "plug",
+  "ID": "634b632ca2c84fd7af8fc8280635f034",
+  "ActionKeyword": "github",
   "Disabled": false,
   "IsGlobal": false,
   "Name": "GitHubPower",
-  "Author": "",
+  "Author": "Cierra-Runis",
   "Version": "1.0.0",
   "Language": "csharp",
-  "Website": "",
+  "Website": "https://github.com/Cierra-Runis/GitHubPower",
   "ExecuteFileName": "Community.PowerToys.Run.Plugin.GitHubPower.dll",
   "IcoPathDark": "Images\\GitHubPower.dark.png",
   "IcoPathLight": "Images\\GitHubPower.light.png"
